@@ -4,7 +4,7 @@ using Mirror;
 
 /*
     Description:
-    This will display a new Material every X seconds, selecting from the list of materials provided.
+    This is a component that displays a new Material every X seconds, selecting from the list of materials provided.
     It is network synced.
 */
 public class MaterialCycler : NetworkBehaviour {
